@@ -37,11 +37,19 @@ nav {
   gap: 35px;
 }
 
+
+
 nav .navbar ul li {
   list-style: none;
 }
 nav .navbar ul li:hover {
   color: gray;
+}
+
+
+nav .navbar ul li a{
+  text-decoration: none;
+  color: #343232;
 }
 
 .h11 {
